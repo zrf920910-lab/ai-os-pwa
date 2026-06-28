@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 80px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.task, .bug {
+  background: #1e293b;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 6px;
+}
